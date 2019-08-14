@@ -13,6 +13,7 @@ end
 def monopoly_with_third_tier
   base_hash ={
     railrods: {pieces: 4}
+    rent_in_dollars: {}
   }
 end
 
